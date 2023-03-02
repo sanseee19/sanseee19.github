@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
 
 html{
-    font-family: 'Gloock', serif;
-    background: rgb(253, 254, 246);
+    font-family: 'Tahoma', serif;
+    background: rgb(230, 229, 177);
 }
 
 .container {
@@ -30,6 +30,7 @@ html{
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
-img.rounded-corners {
-  border-radius: 30px;
+#hp  {
+float: left;
+ margin: 0 15px 0 0;
 }

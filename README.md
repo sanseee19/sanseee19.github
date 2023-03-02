@@ -14,4 +14,6 @@ My personal site.
 1. https://www.w3schools.com/html/html_responsive.asp
     I used the source to find the code for the shivering image.
 
+2. https://www.hostpapa.com/knowledgebase/align-float-images-website/
+    I used this website to find how to do the floating images with the wrap text function
 
