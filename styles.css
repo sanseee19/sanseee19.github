@@ -22,7 +22,7 @@ html{
   .nav {
     float: left;
     width: 30%;
-    height: 300px;
+    height: 700px;
     background: #ccc;
     padding: 20px;
   }
@@ -35,7 +35,7 @@ html{
 .nav2 {
   float: left;
   width: 30%;
-  height: 300px;
+  height: 700px;
   background: #DDD;
   padding: 20px;
 }
@@ -43,6 +43,26 @@ html{
 .nav2 ul {
 list-style-type: none;
 padding: 0;
+}
+
+.nav3 {
+  float: left;
+  width: 30%;
+  height: 700px;
+  background: #EEE;
+  padding: 20px;
+}
+
+.nav3 ul {
+list-style-type: none;
+padding: 0;
+}
+
+.footer {
+  background-color: #777;
+  padding: 9px;
+  text-align: center;
+  color: white;
 }
 
   img:hover {

@@ -19,4 +19,3 @@ My personal site.
     
 3. https://www.w3schools.com/html/tryit.asp?filename=tryhtml_layout_float
     I learned how to create a clearer layout for my hobby page, making it easier on the eye.
-
