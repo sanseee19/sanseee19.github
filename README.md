@@ -16,4 +16,7 @@ My personal site.
 
 2. https://www.hostpapa.com/knowledgebase/align-float-images-website/
     I used this website to find how to do the floating images with the wrap text function
+    
+3. https://www.w3schools.com/html/tryit.asp?filename=tryhtml_layout_float
+    I learned how to create a clearer layout for my hobby page, making it easier on the eye.
 
